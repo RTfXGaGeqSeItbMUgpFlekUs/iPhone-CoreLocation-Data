@@ -1,0 +1,319 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iPhone_CoreLocation_DataAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 520}}";
+			sepNavSelRange = "{3, 70}";
+			sepNavVisRange = "{0, 177}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iPhone_CoreLocation_DataAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1209}}";
+			sepNavSelRange = "{56, 0}";
+			sepNavVisRange = "{0, 177}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPhone CoreLocation Data */ = {
+		activeExec = 0;
+		executables = (
+			5BE40CF71145FD1F0044A3E7 /* iPhone CoreLocation Data */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* iPhone_CoreLocation_Data_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 208}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 409}}";
+			sepNavSelRange = "{486, 0}";
+			sepNavVisRange = "{0, 486}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{4101, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{4152, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{4202, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 5865}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {901, 2899}}";
+			sepNavSelRange = "{1713, 0}";
+			sepNavVisRange = "{1552, 1026}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5BE40CF71145FD1F0044A3E7 /* iPhone CoreLocation Data */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPhone CoreLocation Data */;
+		codeSenseManager = 5BE40D091145FD200044A3E7 /* Code sense */;
+		executables = (
+			5BE40CF71145FD1F0044A3E7 /* iPhone CoreLocation Data */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					324,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289799455;
+			PBXWorkspaceStateSaveDate = 289799455;
+		};
+		perUserProjectItems = {
+			5BE40D741145FDB60044A3E7 /* PBXTextBookmark */ = 5BE40D741145FDB60044A3E7 /* PBXTextBookmark */;
+			5BE40D761145FDB60044A3E7 /* PBXTextBookmark */ = 5BE40D761145FDB60044A3E7 /* PBXTextBookmark */;
+			5BE40D781145FDB60044A3E7 /* PBXTextBookmark */ = 5BE40D781145FDB60044A3E7 /* PBXTextBookmark */;
+			5BE40D7A1145FDB60044A3E7 /* PBXTextBookmark */ = 5BE40D7A1145FDB60044A3E7 /* PBXTextBookmark */;
+			5BE40D7C1145FDB60044A3E7 /* PBXTextBookmark */ = 5BE40D7C1145FDB60044A3E7 /* PBXTextBookmark */;
+			5BE40D7D1145FDB60044A3E7 /* PBXTextBookmark */ = 5BE40D7D1145FDB60044A3E7 /* PBXTextBookmark */;
+			5BE40D9B1145FEDC0044A3E7 /* PBXTextBookmark */ = 5BE40D9B1145FEDC0044A3E7 /* PBXTextBookmark */;
+			5BE40D9E1145FEDC0044A3E7 /* PBXTextBookmark */ = 5BE40D9E1145FEDC0044A3E7 /* PBXTextBookmark */;
+			5BE40D9F1145FEDC0044A3E7 /* PBXTextBookmark */ = 5BE40D9F1145FEDC0044A3E7 /* PBXTextBookmark */;
+			5BE40DAE1145FF190044A3E7 /* PBXTextBookmark */ = 5BE40DAE1145FF190044A3E7 /* PBXTextBookmark */;
+			5BE40DAF1145FF190044A3E7 /* PlistBookmark */ = 5BE40DAF1145FF190044A3E7 /* PlistBookmark */;
+			5BE40DB81145FF710044A3E7 /* PlistBookmark */ = 5BE40DB81145FF710044A3E7 /* PlistBookmark */;
+		};
+		sourceControlManager = 5BE40D081145FD200044A3E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 273}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 146}";
+		};
+	};
+	5BE40CF71145FD1F0044A3E7 /* iPhone CoreLocation Data */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "iPhone CoreLocation Data";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5BE40D081145FD200044A3E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5BE40D091145FD200044A3E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5BE40D741145FDB60044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BE40D751145FDB60044A3E7 /* CoreAnimation_DataAppDelegate.m */;
+		name = "CoreAnimation_DataAppDelegate.m: 1";
+		rLen = 2274;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 165;
+		vrLoc = 0;
+	};
+	5BE40D751145FDB60044A3E7 /* CoreAnimation_DataAppDelegate.m */ = {
+		isa = PBXFileReference;
+		name = CoreAnimation_DataAppDelegate.m;
+		path = "/Users/martin/Documents/CoreAnimation Data/Classes/CoreAnimation_DataAppDelegate.m";
+		sourceTree = "<absolute>";
+	};
+	5BE40D761145FDB60044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BE40D771145FDB60044A3E7 /* CoreAnimation_DataAppDelegate.h */;
+		name = "CoreAnimation_DataAppDelegate.h: 1";
+		rLen = 1216;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 165;
+		vrLoc = 0;
+	};
+	5BE40D771145FDB60044A3E7 /* CoreAnimation_DataAppDelegate.h */ = {
+		isa = PBXFileReference;
+		name = CoreAnimation_DataAppDelegate.h;
+		path = "/Users/martin/Documents/CoreAnimation Data/Classes/CoreAnimation_DataAppDelegate.h";
+		sourceTree = "<absolute>";
+	};
+	5BE40D781145FDB60044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iPhone_CoreLocation_DataAppDelegate.m */;
+		name = "iPhone_CoreLocation_DataAppDelegate.m: 3";
+		rLen = 0;
+		rLoc = 56;
+		rType = 0;
+		vrLen = 177;
+		vrLoc = 0;
+	};
+	5BE40D7A1145FDB60044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* iPhone_CoreLocation_Data_Prefix.pch */;
+		name = "iPhone_CoreLocation_Data_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	5BE40D7C1145FDB60044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 146;
+		vrLoc = 0;
+	};
+	5BE40D7D1145FDB60044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BE40D7E1145FDB60044A3E7 /* RootViewController.h */;
+		name = "RootViewController.h: 8";
+		rLen = 327;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 114;
+		vrLoc = 366;
+	};
+	5BE40D7E1145FDB60044A3E7 /* RootViewController.h */ = {
+		isa = PBXFileReference;
+		name = RootViewController.h;
+		path = "/Users/martin/Documents/CoreAnimation Data/Classes/RootViewController.h";
+		sourceTree = "<absolute>";
+	};
+	5BE40D9B1145FEDC0044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5BE40D9C1145FEDC0044A3E7 /* MKReverseGeocoder.h */;
+		name = "MKReverseGeocoder.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	5BE40D9C1145FEDC0044A3E7 /* MKReverseGeocoder.h */ = {
+		isa = PBXFileReference;
+		name = MKReverseGeocoder.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKReverseGeocoder.h;
+		sourceTree = "<absolute>";
+	};
+	5BE40D9E1145FEDC0044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iPhone_CoreLocation_DataAppDelegate.h */;
+		name = "iPhone_CoreLocation_DataAppDelegate.h: 2";
+		rLen = 70;
+		rLoc = 3;
+		rType = 0;
+		vrLen = 177;
+		vrLoc = 0;
+	};
+	5BE40D9F1145FEDC0044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 23";
+		rLen = 0;
+		rLoc = 486;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	5BE40DAE1145FF190044A3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 76";
+		rLen = 0;
+		rLoc = 1713;
+		rType = 0;
+		vrLen = 1026;
+		vrLoc = 1552;
+	};
+	5BE40DAF1145FF190044A3E7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iPhone_CoreLocation_Data-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/martin/Documents/iPhone CoreLocation Data/iPhone_CoreLocation_Data-Info.plist";
+		rLen = 47;
+		rLoc = 0;
+	};
+	5BE40DB81145FF710044A3E7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iPhone_CoreLocation_Data-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDisplayName,
+		);
+		name = "/Users/martin/Documents/iPhone CoreLocation Data/iPhone_CoreLocation_Data-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
